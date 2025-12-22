@@ -1,0 +1,42 @@
+{
+    "student": [
+        {"id": 1, "name": "super", "age": 20, "email": "super@example.com", "region": "서울"},
+        {"id": 2, "name": "bat", "age": 22, "email": "bat@example.com", "region": "부산"},
+        {"id": 3, "name": "joker", "age": 21, "email": "joker@example.com", "region": "경기"},
+        {"id": 4, "name": "hong", "age": 23, "email": "hong@example.com", "region": "광주"},
+        {"id": 5, "name": "jun", "age": 24, "email": "jun@example.com", "region": "대전"},
+        {"id": 6, "name": "wow", "age": 25, "email": "wow@example.com", "region": "인천"},
+        {"id": 7, "name": "neo", "age": 26, "email": "neo@example.com", "region": "서울"},
+        {"id": 8, "name": "tina", "age": 19, "email": "tina@example.com", "region": "경기"},
+        {"id": 9, "name": "louis", "age": 18, "email": "louis@example.com", "region": "부산"},
+        {"id": 10, "name": "maria", "age": 22, "email": "maria@example.com", "region": "서울"},
+        {"id": 11, "name": "chris", "age": 20, "email": "chris@example.com", "region": "광주"},
+        {"id": 12, "name": "lara", "age": 21, "email": "lara@example.com", "region": "인천"},
+        {"id": 13, "name": "david", "age": 23, "email": "david@example.com", "region": "대전"},
+        {"id": 14, "name": "nora", "age": 24, "email": "nora@example.com", "region": "서울"},
+        {"id": 15, "name": "alex", "age": 25, "email": "alex@example.com", "region": "부산"},
+        {"id": 16, "name": "mike", "age": 19, "email": "mike@example.com", "region": "경기"},
+        {"id": 17, "name": "sophia", "age": 18, "email": "sophia@example.com", "region": "광주"},
+        {"id": 18, "name": "ethan", "age": 22, "email": "ethan@example.com", "region": "대전"},
+        {"id": 19, "name": "olivia", "age": 21, "email": "olivia@example.com", "region": "인천"},
+        {"id": 20, "name": "william", "age": 23, "email": "william@example.com", "region": "서울"},
+        {"id": 21, "name": "emma", "age": 24, "email": "emma@example.com", "region": "부산"},
+        {"id": 22, "name": "mason", "age": 25, "email": "mason@example.com", "region": "경기"},
+        {"id": 23, "name": "lily", "age": 26, "email": "lily@example.com", "region": "광주"},
+        {"id": 24, "name": "jacob", "age": 27, "email": "jacob@example.com", "region": "대전"},
+        {"id": 25, "name": "mila", "age": 28, "email": "mila@example.com", "region": "인천"},
+        {"id": 26, "name": "noah", "age": 29, "email": "noah@example.com", "region": "서울"},
+        {"id": 27, "name": "ella", "age": 30, "email": "ella@example.com", "region": "부산"},
+        {"id": 28, "name": "james", "age": 31, "email": "james@example.com", "region": "경기"},
+        {"id": 29, "name": "amelia", "age": 32, "email": "amelia@example.com", "region": "광주"},
+        {"id": 30, "name": "logan", "age": 33, "email": "logan@example.com", "region": "대전"}
+    ],
+    "regions": [
+        {"id": "1", "name": "서울"},
+        {"id": "2", "name": "부산"},
+        {"id": "3", "name": "경기"},
+        {"id": "4", "name": "광주"},
+        {"id": "5", "name": "대전"},
+        {"id": "6", "name": "인천"}
+    ]
+}
