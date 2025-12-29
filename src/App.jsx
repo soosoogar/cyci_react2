@@ -9,6 +9,9 @@ import StudentInfo from './page/StudentInfo';
 import Props건네주기 from './page/7일차_comp/자식건네주기';
 import 게시판 from './page/7일차_comp/게시판';
 import Axios1 from './page/axios/Axios보내기';
+import Login from './page/Login';
+import Register from './page/Register';
+import Test from './page/test/Test';
 
 
 function App() {
@@ -23,6 +26,9 @@ function App() {
         <Route path={"/comp1"} element={<Props건네주기 />} />
         <Route path={"/board"} element={<게시판 />} />
         <Route path={"/axios1"} element={<Axios1 />} />
+        <Route path={"/Login"} element={<Login />} />
+        <Route path={"/Register"} element={<Register />} />
+        <Route path={"/test"} element={<Test />} />
       </Routes>
      </BrowserRouter>
     </>
